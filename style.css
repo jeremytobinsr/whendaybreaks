@@ -36,9 +36,11 @@ li a:hover:not(.active) {
     align-content: center;
 }
 
-.bkrdimg {
+.bkimg {
+    display: flex;
     justify-content: center;
     align-content: center;
-    width: fit-content
-    height: fit-content;
+    width: 87%;
+    height: 85%;
+    padding: 75px;
 }
